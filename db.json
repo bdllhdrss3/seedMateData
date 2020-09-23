@@ -1,0 +1,136 @@
+{
+  "forums": [
+     {
+        "id": 1,
+        "question": "Who bought a car?",
+        "description": "RxJS provides an The library also provides utility functions for creating and working with observables. These utility functions can be used for",
+        "subject": "Computer Science",
+        "topic": "javascript",
+        "comments": 65,
+        "votes": 30,
+        "owner": "Abdallah Lutaaya",
+        "time": "3hr ago"
+     },
+     {
+        "id": 2,
+        "question": "What is web AI?",
+        "description": "Considerations for the cleaning and disinfection of environmental surfaces in the context of COVID-19 in non-health care settings with observables. These utility functions can be used for",
+        "subject": "Web development",
+        "topic": "CMS",
+        "comments": 60,
+        "votes": 46,
+        "owner": "Muhwezi Deo",
+        "time": "just now"
+     },
+     {
+        "id": 3,
+        "question": "Who bought a car?",
+        "description": "RxJS provides an The library also provides utility functions for creating and working with observables. These utility functions can be used for",
+        "subject": "Computer Science",
+        "topic": "javascript",
+        "comments": 70,
+        "votes": 37,
+        "owner": "Usama Idriss",
+        "time": "7hr ago"
+     },
+     {
+        "id": 4,
+        "question": "What is Covid 19?",
+        "description": "Considerations for the cleaning and disinfection of environmental surfaces in the context of COVID-19 in non-health care settings",
+        "subject": "Health",
+        "topic": "Covid 19",
+        "comments": 70,
+        "votes": 37,
+        "owner": "Huzaifa Lutaaya",
+        "time": "3min ago"
+     },
+     {
+        "id": 4,
+        "question": "What is Chemistry",
+        "description": "Considerations for the cleaning and disinfection of environmental surfaces in the context of COVID-19 in non-health care settings",
+        "subject": "Health",
+        "topic": "chemistry",
+        "comments": 70,
+        "votes": 37,
+        "owner": "Deo",
+        "time": "55mins ago"
+     },
+     {
+        "id": 4,
+        "question": "debugging??",
+        "description": "how to debug this data without a deburger.urfaces in the context of COVID-19 in non-health care settings",
+        "subject": "Health",
+        "topic": "Covid 19",
+        "comments": 70,
+        "votes": 37,
+        "owner": "Huzaifa Lutaaya",
+        "time": "3min ago"
+     },
+     {
+        "id": 66,
+        "question": "Integration by parts",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "subject": "math",
+        "topic": "integration",
+        "comments": 70,
+        "votes": 37,
+        "owner": "Fahiim",
+        "time": "1hr ago"
+     },
+     {
+        "id": 86,
+        "question": "What is Addition",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "subject": "math",
+        "topic": "ALgebra",
+        "comments": 1050,
+        "votes": 997,
+        "owner": "Ben",
+        "time": "1hr ago"
+     },
+     {
+        "id": 36,
+        "question": "Who founded mali empire",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "subject": "History",
+        "topic": "history ofwest africa",
+        "comments": 780,
+        "votes": 37,
+        "owner": "Fahiim",
+        "time": "8hr ago"
+     },
+     {
+        "id": 326,
+        "question": "What causes landslides",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "subject": "Geography",
+        "topic": "soil",
+        "comments": 380,
+        "votes": 37,
+        "owner": "Abu",
+        "time": "8min ago"
+     },
+     {
+        "id": 536,
+        "question": "How to make salt",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "subject": "Chemistry",
+        "topic": "compunds",
+        "comments": 11780,
+        "votes": 307,
+        "owner": "Acram",
+        "time": "22min ago"
+     },
+     {
+        "id": 1536,
+        "question": "How to make soap",
+        "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum",
+        "subject": "Chemistry",
+        "topic": "compunds",
+        "comments": 11780,
+        "votes": 3207,
+        "owner": "Acram",
+        "time": "32min ago"
+     }
+  ]
+}
